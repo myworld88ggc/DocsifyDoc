@@ -1,3 +1,3 @@
-- API
-  - [User](user.md)
+- JAVA学习
+  - [HelloWorld](S06Java/S01Hello/S01HelloWorld.md)
   - [Order](order.md)
