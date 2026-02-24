@@ -1,3 +1,3 @@
 - CNB
-  - [Start](S08CNB/S01Start.md)
-  - [HelloWorld](S08CNB/S02HelloWorld.md)
+  - [Hello](S08CNB/S01Hello/S01Hello.md)
+  - [Start](S08CNB/S02Start/S01Start.md)

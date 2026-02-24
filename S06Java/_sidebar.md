@@ -1,3 +1,2 @@
-- JAVA学习
+- JAVA
   - [HelloWorld](S06Java/S01Hello/S01HelloWorld.md)
-  - [Order](order.md)
